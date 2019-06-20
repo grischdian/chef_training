@@ -60,7 +60,7 @@ Erstellen Sie ein Environment prod
 
 Aufgabe 4:
 
-Wenden Sie die Runlist-Rolle 'webserver' auf server1 an und setzten diesen in das devel-environment
+Wenden Sie die Runlist-Rolle 'webserver' auf node2 an und setzten diesen in das devel-environment
 
  - knife node edit node2
 
